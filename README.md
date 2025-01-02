@@ -44,7 +44,7 @@ Salin file .env.example ke .env dan sesuaikan konfigurasi environment Anda:
 cp .env.example .env
 ```
 
-### Konfigurasi Postgresql
+### Konfigurasi MySQL
 pastikan anda telah membuat ```database``` di mysql. Masuk ke file .env dan sesuaikan konfigurasi database Anda:
 
 ```bash
