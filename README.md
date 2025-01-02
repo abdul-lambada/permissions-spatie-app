@@ -19,7 +19,7 @@ Clone repository ini ke direktori lokal Anda:
 
 ```bash
 
-git clone https://github.com/abdul-lambada/News-App.git
+git clone https://github.com/abdul-lambada/permissions-spatie-app.git
 
 cd news-app
 
