@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSeq8lT_gBblj5r_JknGL9_fIADEy6V_S_Zw4h_J4trdFpQColrvkFtK8x4d0777nRoI&usqp=CAU" width="400" alt="Laravel Logo"></a></p>
 
 # Laravel Breeze Permissions
 
