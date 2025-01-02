@@ -21,7 +21,7 @@ Clone repository ini ke direktori lokal Anda:
 
 git clone https://github.com/abdul-lambada/permissions-spatie-app.git
 
-cd news-app
+cd permissions-spatie-app
 
 ```
 
